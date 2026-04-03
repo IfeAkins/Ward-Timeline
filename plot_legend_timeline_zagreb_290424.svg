@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='1080.00pt' height='720.00pt' viewBox='0 0 1080.00 720.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHwxMDgwLjAwfDAuMDB8NzIwLjAw'>
+    <rect x='0.00' y='0.00' width='1080.00' height='720.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwxMDgwLjAwfDAuMDB8NzIwLjAw)'>
+<line x1='49.09' y1='57.90' x2='1030.91' y2='57.90' style='stroke-width: 21.34; stroke: #377EB8; stroke-linecap: butt;' />
+<line x1='49.09' y1='108.25' x2='1030.91' y2='108.25' style='stroke-width: 21.34; stroke: #4DAF4A; stroke-linecap: butt;' />
+<line x1='49.09' y1='158.60' x2='1030.91' y2='158.60' style='stroke-width: 21.34; stroke: #FF7F00; stroke-linecap: butt;' />
+<line x1='49.09' y1='208.95' x2='1030.91' y2='208.95' style='stroke-width: 21.34; stroke: #F781BF; stroke-linecap: butt;' />
+<line x1='49.09' y1='259.30' x2='1030.91' y2='259.30' style='stroke-width: 21.34; stroke: #8B864E; stroke-linecap: butt;' />
+<line x1='49.09' y1='309.65' x2='1030.91' y2='309.65' style='stroke-width: 21.34; stroke: #8B0000; stroke-linecap: butt;' />
+<line x1='49.09' y1='360.00' x2='1030.91' y2='360.00' style='stroke-width: 21.34; stroke: #999999; stroke-linecap: butt;' />
+<line x1='49.09' y1='410.35' x2='1030.91' y2='410.35' style='stroke-width: 21.34; stroke: #984EA3; stroke-linecap: butt;' />
+<line x1='49.09' y1='460.70' x2='1030.91' y2='460.70' style='stroke-width: 21.34; stroke: #68838B; stroke-linecap: butt;' />
+<line x1='49.09' y1='511.05' x2='1030.91' y2='511.05' style='stroke-width: 21.34; stroke: #A65628; stroke-linecap: butt;' />
+<line x1='49.09' y1='561.40' x2='1030.91' y2='561.40' style='stroke-width: 21.34; stroke: #36648B; stroke-linecap: butt;' />
+<line x1='49.09' y1='611.75' x2='1030.91' y2='611.75' style='stroke-width: 21.34; stroke: #FFFF33; stroke-linecap: butt;' />
+<line x1='49.09' y1='662.10' x2='1030.91' y2='662.10' style='stroke-width: 21.34; stroke: #0000FF; stroke-linecap: butt;' />
+<text x='540.00' y='61.86' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='69.26px' lengthAdjust='spacingAndGlyphs'>COVID19 ICU</text>
+<text x='540.00' y='112.21' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='74.17px' lengthAdjust='spacingAndGlyphs'>COVID19 ward</text>
+<text x='540.00' y='162.56' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='74.78px' lengthAdjust='spacingAndGlyphs'>Cardiology ICU</text>
+<text x='540.00' y='212.91' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='79.69px' lengthAdjust='spacingAndGlyphs'>Cardiology ward</text>
+<text x='540.00' y='263.26' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='55.79px' lengthAdjust='spacingAndGlyphs'>Emergency</text>
+<text x='540.00' y='313.61' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='106.06px' lengthAdjust='spacingAndGlyphs'>Internal Medicine ICU</text>
+<text x='540.00' y='363.96' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='72.33px' lengthAdjust='spacingAndGlyphs'>Neurology ICU</text>
+<text x='540.00' y='414.31' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='77.24px' lengthAdjust='spacingAndGlyphs'>Neurology ward</text>
+<text x='540.00' y='464.66' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='90.10px' lengthAdjust='spacingAndGlyphs'>Neurosurgical ICU</text>
+<text x='540.00' y='515.01' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='74.78px' lengthAdjust='spacingAndGlyphs'>Pulmonary ICU</text>
+<text x='540.00' y='565.36' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='79.69px' lengthAdjust='spacingAndGlyphs'>Pulmonary ward</text>
+<text x='540.00' y='615.70' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='61.91px' lengthAdjust='spacingAndGlyphs'>Surgical ICU</text>
+<text x='540.00' y='666.05' text-anchor='middle' style='font-size: 11.04px; font-family: "Arial";' textLength='64.35px' lengthAdjust='spacingAndGlyphs'>Thoracic ICU</text>
+</g>
+</svg>
