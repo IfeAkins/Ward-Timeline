@@ -2,7 +2,10 @@
 
 R script for visualising the spatial and temporal 
 relationship of patients during hospital outbreak 
-investigation.
+investigation, as described in the publication:
+
+[Akintayo et al. (2024) mSystems](https://journals.asm.org/doi/full/10.1128/msystems.01128-24)
+
 
 ## What it does
 - Plots patient ward movements over time
@@ -37,4 +40,4 @@ Ward movement data with columns:
 - Legend plot (SVG)
 
 ## Usage
-source("timeline_plot.R")
+source("Timeline-script-290424.R")
